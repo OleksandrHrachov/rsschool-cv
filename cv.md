@@ -50,3 +50,45 @@ I have skills in creating user-friendly Web-applications using popular stack (HT
 * [DEMO LINK](https://oleksandrhrachov.github.io/layout_miami/)
 
 ****
+
+### Experience:
+**Company: 'SMISS Ltd.'**
+* Position: Front-end developer
+* Period: apr. 2022 – oct. 2023
+* Responsibilities: 
+     - Creating of sites pages and separate components according to the design;
+     - Writing code to implement applications logic;
+     - Fixing bugs;
+     - Conducting a demo for a customer.
+
+**Company: 'Stela Agro'**
+* Position: Head of the service department
+* Period: feb. 2015 - apr. 2021
+* Responsibilities:
+    - Drawing up schedules for planned maintenance of equipment;
+    - Conducting installation work on installing equipment;
+    - Carrying out scheduled and emergency maintenance of equipment for milking cattle.
+
+**Company: 'GEA Farm Technologies Ukraine'**
+* Position: Service engineer
+* Period: july 2013 - jan. 2015
+* Responsibilities:
+    - Carrying out scheduled and emergency maintenance of equipment for milking cattle;
+    - Installing equipment.
+
+****
+
+### Education:
+**Сourses:  “Mate academy”**
+* Front-end developer:
+    - HTML;
+    - CSS3, SCSS;
+    - JavaScript;
+    - GIT;
+    - TypeScript;
+    - React;
+    - Redux;
+    - Figma.
+
+**Luhansk National Agrarian University, a specialist in agricultural  mechanization, Master of  Engineering**\
+**Luhansk National Agrarian University, a specialist in Industrial and civil construction,  Specialist**
