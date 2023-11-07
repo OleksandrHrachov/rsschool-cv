@@ -137,6 +137,94 @@ header {
   }
 }
 
+.education,
+.contact {
+  margin-bottom: 30px;
+}
+
+.education__title,
+.contact__title,
+.skills__title,
+.about__title,
+.projects__title,
+.experience__title {
+  font-size: 22px;
+  padding: 5px 10px;
+  background-color: var(--gray3B-04);
+  margin-bottom: 20px;
+}
+
+.education__list,
+.contact__list,
+.skills__list,
+.projects__list,
+.experience__list {
+  list-style: none;
+  padding: 0 10px;
+}
+
+.contact__item {
+  margin-bottom: 5px;
+  padding: 5px;
+  transition: all 0.5s;
+}
+
+.contact__item:last-child {
+  margin-bottom: 0;
+}
+
+.contact__item:hover {
+  background-color: var(--gray3B-02);
+}
+
+.contact__item-link {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+
+.contact__item-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.education__course,
+.education__sub-title {
+  font-size: 18px;
+  padding: 0 10px;
+}
+
+.education__course {
+  margin-bottom: 10px;
+}
+
+.education__list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.education__item {
+  margin-bottom: 5px;
+}
+
+.education__item::after {
+  content: '|';
+}
+
+.skills__item {
+  margin-bottom: 5px;
+  line-height: 20px;
+}
+
+.skills__item > span {
+  display: block;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
 /* main__description */
 
 .main__description {
