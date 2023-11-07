@@ -239,3 +239,73 @@ header {
     padding: 30px 15px;
   }
 }
+
+.about__description {
+  text-indent: 15px;
+  padding: 0 10px;
+}
+
+.about__description:last-child {
+  margin-bottom: 30px;
+}
+
+.projects__list {
+  margin-bottom: 30px;
+}
+
+.experience__item,
+.projects__item {
+  margin-bottom: 20px;
+}
+
+.experience__item:last-child,
+.projects__item:last-child {
+  margin-bottom: 0;
+}
+
+.experience__item-title,
+.projects__item-title {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.projects__item-description {
+  margin-bottom: 5px;
+  line-height: 20px;
+}
+
+.projects__item-description > span {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.projects__item-links-title {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.projects__item-link {
+  text-decoration: none;
+  padding: 5px;
+  color: black;
+  transition: all 0.5s;
+  font-weight: 600;
+}
+
+.projects__item-link:hover {
+  background-color: var(--gray3B-02);
+}
+
+.experience__item-description {
+  margin-bottom: 5px;
+  line-height: 20px;
+}
+
+.experience__item-description > span {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.experience__item-description-list {
+  padding-left: 30px;
+}
